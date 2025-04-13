@@ -1,4 +1,10 @@
-# M5Stick-CPlus2-NRF24-CC1101
+## M5Stick-CPlus2-NRF24-CC1101
+
+#M5Stick CPlus 2
+![m5stick image](https://ibb.co/xSHqsJs5)
+
+**For more information: [here](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit)**
+
 This project integrates the M5Stick-C Plus2(esp32) with NRF24L01 or CC1101 transceivers:
 
     NRF24L01: 2.4GHz short-range, low-power RF module (SPI)
