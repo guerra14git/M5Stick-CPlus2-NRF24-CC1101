@@ -1,6 +1,7 @@
-## M5Stick-CPlus2-NRF24-CC1101
+# M5Stick-CPlus2-NRF24-CC1101
 
-#M5Stick CPlus 2
+## M5Stick CPlus 2
+
 [m5stick image](https://ibb.co/xSHqsJs5)
 
 **For more information: [here](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit)**
@@ -19,7 +20,7 @@ Useful for prototyping IoT nodes, gateways, or multi-protocol communication syst
 
     Ideal for sensor networks, RF bridging, remote control systems
 
-# Modules needed:
+## Modules needed:
 
 M5Stick CPlus 2 - [m5stack](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit)
 
