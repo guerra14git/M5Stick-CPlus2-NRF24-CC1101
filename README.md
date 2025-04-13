@@ -1,7 +1,7 @@
 ## M5Stick-CPlus2-NRF24-CC1101
 
 #M5Stick CPlus 2
-![m5stick image](https://ibb.co/xSHqsJs5)
+[m5stick image](https://ibb.co/xSHqsJs5)
 
 **For more information: [here](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit)**
 
