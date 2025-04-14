@@ -53,5 +53,7 @@ This combined with an [SD card module](https://www.amazon.es/-/pt/dp/B06X1DX5WS/
 2. Go to NRF24 tab
 3. Select NRF JAMMER(would specifically target NRF24 frequencies and communication patterns) or select CH JAMMER(likely means channel jammer – focusing on jamming one or more specific channels)
 
+Any doubt open an issue!
+
 
 
