@@ -33,3 +33,19 @@ NRF24 - [amazon](https://www.amazon.com/Aideepen-NRF24L01-Transceiver-Breakout-C
 
 Proficiency in soldering(optional)
 
+## Connections
+![519GzZ150hL](https://github.com/user-attachments/assets/9f73075b-db6c-43b4-a227-2917758ee781)
+| Pins  | NRF24/CC1101 |
+| ------------- | ------------- |
+| 1  | GND  |
+| 2  | 3,3V  |
+| 3  | GDO0/G36/G25  |
+| 4  | CSN/G26  |
+| 5  | SCK/G0  |
+| 6  | MOSI  |
+| 7  | MISO  |
+| 8  |   |
+
+This combined with an [SD card module](https://www.amazon.es/-/pt/dp/B06X1DX5WS/ref=sr_1_1?crid=2U3JZFELMIS9R&dib=eyJ2IjoiMSJ9.ULyuxmikM5lBKpDm11X87loKyzfHoynZecj-zkCVCX1KipoxK3PLDgIIXfqDdIqMlTzAK2hzuuco8DvkbuZleteW2RqffSyx5uOaOqObvAybezC0tH4_JFBW6Kij5KY0ndB3c__ABas4q7cJyp2QUaq_c1OYcC4SqwHnW5W91j8X4UBJcUoG7RrTshDtAz8Ay3UaPQdMbBY33gZCWQVoVZWebmp5wBWmvKUUvbQLUuy_eOxYZ1h3CwiSztFWFD54SCS95K4HyHZsQAZqG2BfdfKgm8PCu-55OzZGqw8-nrE.6MYsn2n22lyKiD-rKK1XXrWGqzqbA5ylaTNfgodFMWE&dib_tag=se&keywords=sd%2Bcard%2Bmodule%2Bm5ick&qid=1744590905&sprefix=sd%2Bcard%2Bmodule%2Bm5ick%2Caps%2C114&sr=8-1&th=1)
+
+
