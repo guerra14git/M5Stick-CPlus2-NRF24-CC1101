@@ -1,6 +1,6 @@
-# M5Stick-CPlus2-NRF24-CC1101
+# M5StickC-Plus2-NRF24-CC1101
 
-## M5Stick CPlus 2
+## M5StickC Plus 2
 ![m5stick](https://github.com/user-attachments/assets/7c318199-e52d-4ab2-93ef-d517a28eb450)
 
 **For more information: [here](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit)**
@@ -21,7 +21,7 @@ Useful for prototyping IoT nodes, gateways, or multi-protocol communication syst
 
 ## Modules needed:
 
-M5Stick CPlus 2 - [m5stack](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit)
+M5StickC Plus 2 - [m5stack](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit)
 
 BreadBoard/ProtoBoard(optional) - [aliexpress](https://de.aliexpress.com/item/1005003126962531.html?spm=a2g0o.productlist.main.69.7d67TIBVTIBVOY&algo_pvid=6ba7db82-8941-4d51-87b3-1abd87f3268a&algo_exp_id=6ba7db82-8941-4d51-87b3-1abd87f3268a-34&pdp_ext_f=%7B%22order%22%3A%22320%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%211.69%210.99%21%21%211.87%211.09%21%40210388c917445863711634120eee2e%2112000024243771430%21sea%21DE%210%21ABX&curPageLogUid=r1JT4UtQlv0x&utparam-url=scene%3Asearch%7Cquery_from%3A)
 
@@ -33,7 +33,7 @@ NRF24 - [amazon](https://www.amazon.com/Aideepen-NRF24L01-Transceiver-Breakout-C
 
 Proficiency in soldering(optional)
 
-## Connections
+## Connections:
 ![519GzZ150hL](https://github.com/user-attachments/assets/9f73075b-db6c-43b4-a227-2917758ee781)
 | Pins  | NRF24/CC1101 |
 | ------------- | ------------- |
@@ -47,5 +47,11 @@ Proficiency in soldering(optional)
 | 8  |   |
 
 This combined with an [SD card module](https://www.amazon.es/-/pt/dp/B06X1DX5WS/ref=sr_1_1?crid=2U3JZFELMIS9R&dib=eyJ2IjoiMSJ9.ULyuxmikM5lBKpDm11X87loKyzfHoynZecj-zkCVCX1KipoxK3PLDgIIXfqDdIqMlTzAK2hzuuco8DvkbuZleteW2RqffSyx5uOaOqObvAybezC0tH4_JFBW6Kij5KY0ndB3c__ABas4q7cJyp2QUaq_c1OYcC4SqwHnW5W91j8X4UBJcUoG7RrTshDtAz8Ay3UaPQdMbBY33gZCWQVoVZWebmp5wBWmvKUUvbQLUuy_eOxYZ1h3CwiSztFWFD54SCS95K4HyHZsQAZqG2BfdfKgm8PCu-55OzZGqw8-nrE.6MYsn2n22lyKiD-rKK1XXrWGqzqbA5ylaTNfgodFMWE&dib_tag=se&keywords=sd%2Bcard%2Bmodule%2Bm5ick&qid=1744590905&sprefix=sd%2Bcard%2Bmodule%2Bm5ick%2Caps%2C114&sr=8-1&th=1)
+
+## Software I use:
+1. Install [bruce firmware](https://bruce.computer/)
+2. Go to NRF24 tab
+3. Select NRF JAMMER(would specifically target NRF24 frequencies and communication patterns) or select CH JAMMER(likely means channel jammer – focusing on jamming one or more specific channels)
+
 
 
