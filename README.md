@@ -1,8 +1,7 @@
 # M5Stick-CPlus2-NRF24-CC1101
 
 ## M5Stick CPlus 2
-
-[m5stick image](./m5stick.png)
+![m5stick](https://github.com/user-attachments/assets/7c318199-e52d-4ab2-93ef-d517a28eb450)
 
 **For more information: [here](https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit)**
 
