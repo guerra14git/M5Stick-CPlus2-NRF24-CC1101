@@ -1,4 +1,4 @@
-# M5StickC-Plus2-NRF24-CC1101
+# M5StickC-Plus2 + NRF24/CC1101
 
 ## M5StickC Plus 2
 ![m5stick](https://github.com/user-attachments/assets/7c318199-e52d-4ab2-93ef-d517a28eb450)
